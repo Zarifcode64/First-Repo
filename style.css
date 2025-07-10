@@ -1,23 +1,22 @@
-/* nav style */
-nav{
-    display: flex;  
-    justify-content: space-between;
-    margin-left: 150px;
-    margin-top: 50px;
-    margin-right: 150px;
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-right: 150px;
 }
-.fonts{
-    font-family: Quicksand;
+.fonts {
+  font-family: Quicksand;
 }
-.nav-title{
-    font-weight: 900;
-    font-size: 34px;
-    color: #B13BFF;
+.nav-title {
+  font-weight: 900;
+  font-size: 34px;
+  color: #b13bff;
 }
 
 nav ul li {
-    list-style: none;
-    /* margin-left: 700px;
+  list-style: none;
+  /* margin-left: 700px;
     margin-bottom: 50px;
     position: absolute;
     top: 75px;
@@ -25,26 +24,120 @@ nav ul li {
     transform: translate(-50%, -50%); */
 }
 
-.btn{
-    background-color: #B13BFF;
-    font-weight: bold;
-    color: white;
-    padding: 15px 32px;
-    border: none;
-    border-radius: 10px;
-    font-family: Quicksand;
-    font-size: 25px;
-    border: #B13BFF solid 2px;
-       transition: 0.4s;
+.btn {
+  background-color: #b13bff;
+  font-weight: bold;
+  color: white;
+  padding: 15px 32px;
+  border: none;
+  border-radius: 10px;
+  font-family: Quicksand;
+  font-size: 25px;
+  border: #b13bff solid 2px;
+  transition: 0.4s;
 }
-.btn:hover{
-   background-color: white;
-   color: #B13BFF;
-}
-
-.img-bg{
-    background-image: url("");
+.btn:hover {
+  background-color: white;
+  color: #b13bff;
 }
 
+.img-bg {
+  background-image: url("Hero-bg.png");
+}
 
-/* share style */
+.stay {
+  text-align: center;
+  color: #252432;
+  font-family: Quicksand;
+  font-size: 65px;
+}
+.hero-section {
+  margin-top: 140px;
+  text-align: center;
+}
+
+.btn1 {
+  background-color: #b13bff;
+  font-weight: bold;
+  color: white;
+  padding: 8px 32px;
+  border: none;
+  border-radius: 10px;
+  font-family: Quicksand;
+  font-size: 20px;
+  border: #b13bff solid 2px;
+  transition: 0.4s;
+}
+
+.btn1:hover {
+  background-color: white;
+  color: #b13bff;
+}
+
+.action {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 141px;
+  margin-right: 159px;
+  margin-top: 210px;
+  padding-top: 116px;
+  background-color: white;
+  font-family: Quicksand;
+}
+
+.ptag {
+  font-weight: 200;
+  padding-top: -5px;
+}
+
+.img-radius {
+  border-radius: 50px;
+  margin-right: 40px;
+}
+
+.numbers {
+  background-color: rgb(229, 231, 255);
+  border-radius: 35px;
+  margin-top: 100px;
+  margin-left: 150px;
+  padding-top: 20px;
+  margin-right: 150px;
+}
+
+.hajar {
+  margin-right: 100px;
+  margin-left: 100px;
+  font-family: Quicksand;
+}
+.boro-text {
+  font-size: 80px;
+  color: #b13bff;
+  text-align: center;
+  font-weight: 900;
+}
+.shoto-text {
+  color: #252432;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -20px;
+  font-weight: 200;
+}
+
+.lakh {
+  display: flex;
+  justify-content: center;
+}
+.review{
+  font-size: 15px;
+  font-weight: 20px;
+  font-family: Quicksand;
+}
+
+.Loved{
+  color: #252432;
+  font-family: Quicksand;
+}
+.Mifti{
+  color: #252432;
+  font-family: Quicksand;
+}
