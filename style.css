@@ -141,11 +141,19 @@ nav ul li {
   color: #252432;
   font-family: Quicksand;
   margin-left: 10px;
-  gap: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; 
+  margin-top: 0%; 
 }
 
 .class-bana {
   border: 1px solid #F0E4D3;
   border-radius: 8px;
   padding: 24px;
+  margin-left: 20px;
+  margin-right: 20px;
+
 }
+
+
