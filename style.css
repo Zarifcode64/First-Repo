@@ -81,7 +81,6 @@ nav ul li {
   margin-right: 159px;
   margin-top: 210px;
   padding-top: 116px;
-  background-color: white;
   font-family: Quicksand;
 }
 
@@ -93,6 +92,7 @@ nav ul li {
 .img-radius {
   border-radius: 50px;
   margin-right: 40px;
+  margin-bottom: 100px;
 }
 
 .numbers {
