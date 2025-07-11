@@ -169,6 +169,8 @@ nav ul li {
   justify-content: center;
   gap: 30%;
   margin: 150px;
+  margin-bottom: 0px;
+  padding-bottom: 80px;
 }
 
 .touch h1 {
@@ -181,9 +183,21 @@ nav ul li {
   border-radius: 6px;
   padding-left: 15px;
   padding-right: 150px;
-  
 }
 .touch p {
   font-family: Quicksand;
   margin-left: 5px;
+}
+
+footer {
+  font-family: Quicksand;
+  text-align: center;
+  background-color: white;
+  padding: 80px;
+}
+
+footer div {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
 }
