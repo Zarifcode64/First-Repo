@@ -154,3 +154,36 @@ nav ul li {
   margin-left: 20px;
   margin-right: 28px;
 }
+
+.focus {
+  background-color: #ebd6fb;
+  padding: 30px;
+  margin-top: 150px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border-radius: 25px;
+}
+
+.touch {
+  display: flex;
+  justify-content: center;
+  gap: 30%;
+  margin: 150px;
+}
+
+.touch h1 {
+  font-size: 97px;
+  font-family: Quicksand;
+}
+.touch input {
+  border: 1px solid #e5e0d8;
+  padding: 20px 40px;
+  border-radius: 6px;
+  padding-left: 15px;
+  padding-right: 150px;
+  
+}
+.touch p {
+  font-family: Quicksand;
+  margin-left: 5px;
+}
